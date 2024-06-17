@@ -93,7 +93,7 @@ Before you begin, ensure you have the following:
 
 - [Amazon S3 Documentation](https://docs.aws.amazon.com/s3/)
 - [Amazon Route 53 Documentation](https://docs.aws.amazon.com/Route53/)
-- [Amazon CloudFront Documentation](https://docs.aws.amazon.com/AmazonCloudFront/)
+- [Amazon CloudFront Documentation](https://docs.aws.amazon.com/cloudfront/)
 - [AWS Certificate Manager Documentation](https://docs.aws.amazon.com/acm/)
 
 ## Contributing
